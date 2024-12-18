@@ -1,0 +1,15 @@
+/Users/kbbl/Code/Coin Toss/bin/Debug/net9.0/Coin Toss
+/Users/kbbl/Code/Coin Toss/bin/Debug/net9.0/Coin Toss.deps.json
+/Users/kbbl/Code/Coin Toss/bin/Debug/net9.0/Coin Toss.runtimeconfig.json
+/Users/kbbl/Code/Coin Toss/bin/Debug/net9.0/Coin Toss.dll
+/Users/kbbl/Code/Coin Toss/bin/Debug/net9.0/Coin Toss.pdb
+/Users/kbbl/Code/Coin Toss/obj/Debug/net9.0/Coin Toss.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kbbl/Code/Coin Toss/obj/Debug/net9.0/Coin Toss.AssemblyInfoInputs.cache
+/Users/kbbl/Code/Coin Toss/obj/Debug/net9.0/Coin Toss.AssemblyInfo.cs
+/Users/kbbl/Code/Coin Toss/obj/Debug/net9.0/Coin Toss.csproj.CoreCompileInputs.cache
+/Users/kbbl/Code/Coin Toss/obj/Debug/net9.0/Coin Toss.sourcelink.json
+/Users/kbbl/Code/Coin Toss/obj/Debug/net9.0/Coin Toss.dll
+/Users/kbbl/Code/Coin Toss/obj/Debug/net9.0/refint/Coin Toss.dll
+/Users/kbbl/Code/Coin Toss/obj/Debug/net9.0/Coin Toss.pdb
+/Users/kbbl/Code/Coin Toss/obj/Debug/net9.0/Coin Toss.genruntimeconfig.cache
+/Users/kbbl/Code/Coin Toss/obj/Debug/net9.0/ref/Coin Toss.dll
